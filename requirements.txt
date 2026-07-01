@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+openai
+python-dotenv
